@@ -1,0 +1,22 @@
+[{
+        "type": "text",
+        "text": "Girish Babu from Surya Instruments & Control Engineers, Bengaluru.\nWe are Manufacturers of Instrumentation products.\nThis is with reference to IndiaMart enquiry for HOOTER.\nPlease find our Catalogues for your reference and consideration."
+    }, {
+        "type": "document",
+        "link": "./Media/Thyristor/file-sample_100kB.docx"
+    }, {
+        "type": "document",
+        "link": "./Media/file-sample_100kB.docx"
+    }, {
+        "type": "audio",
+        "link": "./Media/sonata.mp3"
+    }, {
+        "type": "image",
+        "link": "./Media/aa.jpg",
+        "caption": "Big image"
+    }, {
+        "type": "text",
+        "text": "Girish Babu from Surya Instruments & Control Engineers, Bengaluru.\nWe are manufacturers of Instrumentation products.\nThis is with reference to IndiaMart enquiry for HOOTER.\nPlease find our Catalogues for your reference and consideration."
+    }
+
+]

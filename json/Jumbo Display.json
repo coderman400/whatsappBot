@@ -1,0 +1,24 @@
+[
+{
+"type"	:"text",
+"text"	:"Girish Babu from *Surya Instruments & Control Engineers*, Bengaluru.\n\nWe are Manufacturers of Instrumentation products.\n\nThis is with reference to your enquiry for: *Jumbo Display*\n\nPlease find our Catalogues for your reference and consideration."
+},{
+"type"	:"document",
+"link"	:"./Media/2. Short Form Catalog.pdf"
+},{
+"type"	:"document",
+"link"	:"./Media/Jumbo Display/1. Jumbo Display CATv2.00 (1).pdf"
+},{
+"type"	:"image",
+"link"	:"./Media/Jumbo Display/2. JBD2.jpg",
+"caption"	:""
+},{
+"type"	:"image",
+"link"	:"./Media/Jumbo Display/3. JBD4.jpg",
+"caption"	:""
+},{
+"type"	:"image",
+"link"	:"./Media/Jumbo Display/4. JBD8.jpg",
+"caption"	:""
+}
+]

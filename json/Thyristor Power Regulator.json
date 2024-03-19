@@ -1,0 +1,27 @@
+[
+{
+"type"	:"text",
+"text"	:"Girish Babu from *Surya Instruments & Control Engineers*, Bengaluru.\n\nWe are Manufacturers of Instrumentation products.\n\nThis is with reference to your enquiry for: *Thyristor Power Regulator*\n\nPlease find our Catalogues for your reference and consideration."
+},{
+"type"	:"document",
+"link"	:"./Media/2. Short Form Catalog.pdf"
+},{
+"type"	:"document",
+"link"	:"./Media/Thyristor Power Regulator/1. Thyristor Power Regulator - 3 Phase.pdf"
+},{
+"type"	:"image",
+"link"	:"./Media/Thyristor Power Regulator/2. TPM-400 Out.png",
+"caption"	:"TPM-400 Out"
+},{
+"type"	:"image",
+"link"	:"./Media/Thyristor Power Regulator/3. TPRG-3P-50A.jpg",
+"caption"	:""
+},{
+"type"	:"image",
+"link"	:"./Media/Thyristor Power Regulator/4. TPRG-3P-200A.png",
+"caption"	:""
+},{
+"type"	:"text",
+"text"	:"Please let us know the following\n\nIs it 3 phase?\n\nLoad is Star without Neutral / delta or Star with Neutral?\n\nLoad is Inductive or resistive?\n\nInput 4-20mA?\n\nWhat's current per phase?\n\nQuantity?"
+}
+]
